@@ -1,4 +1,4 @@
-# xv6_color_changer
+# xv6-color-changer
 The goal of the homework is to modify the xv6 system so that it supports changing color of letters and background of the text in further typing.
 
 Table appears with ALT+C, when the table is showing input to the console is disabled and you can only move through the table.
